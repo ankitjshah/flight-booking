@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.rest.flightbooking"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "FlightBooking",
+    "packageName": "com.rest.flightbooking",
+    "packageFolder": "com/rest/flightbooking",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2Y0NTQ5YzUyOGQ2ODU2YjViZTkyMTljYmNiMmVjNjQzYmY0Njg0OTdmODVlYmJlMTUyY2VhMDk3MDBmMzRlNzljY2JiNDUzMzEzNWM4OTBiZGY5NDI4NGU5MjI0NjJmYjljMjEyYzM0ODRhZWFhODgyMTI1MWI1MmFjYTA0ZTk=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
